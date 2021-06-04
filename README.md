@@ -1,0 +1,2 @@
+# microsoft-azure
+site statique
